@@ -1,4 +1,3 @@
-
 ![Le cheminement démocratique, logo](i/logo.png)
 
 Un jeu des éditions EnMarche!
@@ -52,8 +51,13 @@ Pour le reste des règles, invente les toi même, fais comme tu le sens, c'est t
 
 Tu arrêtes quand tu veux. Tu as gagné.
 
+![Le cheminement démocratique, logo](i/rendu-box.png)
 
+---
+# Licence
+CC0
 
+Les graphismes sont pour l'essentiel dans le SVG, je n'ai pas mis les scenes blender, trop gros.
 
 
 
