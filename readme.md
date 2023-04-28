@@ -21,11 +21,11 @@ Tu démarres.
 
 Lance les 3 dés et avance du nombre de cases que tu veux.
 
-Les séditieux te montrent la carte "MANIFESTATIONS" ?  
+Les séditieux te montrent la carte "Manifestations" ?  
 
 Si tu as la carte "Pédagogie", contre leur attaque et gagne mille points.
 
-<img src="cheminement-manif.png" width="200px" style="">
+<img src="cheminement-manif.png" width="200px" style="float:left">
 <img src="cheminement-pedago.png" width="200px" style="">
 
 Si tu n'as pas la carte "Pédagogie", dis que tu l'as et déclare "J'ASSUME".
@@ -36,9 +36,9 @@ Si tu n'as pas la carte "Pédagogie", dis que tu l'as et déclare "J'ASSUME".
 
 ---
 
-Les séditions te montrent la carte "R.I.P.", "AMENDEMENT" ou "PÉTITION" ?  
+Les séditions te montrent la carte "R.I.P.", "Amendement" ou "Pétition" ?  
 
-Utilise la carte "BROYEUSE DE LA RÉPUBLIQUE" et déclare "JE VOUS ENTENDS"
+Utilise la carte "Broyeuse de la République" et déclare "JE VOUS ENTENDS"
 
 <img src="cheminement-petition.png" width="200px" style="">
 <img src="cheminement-broyeuse.png" width="200px" style="">
