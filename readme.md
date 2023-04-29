@@ -31,8 +31,6 @@ Si tu n'as pas la carte "Pédagogie", dis que tu l'as et déclare "J'ASSUME".
 
 <img src="jassume.png" width="200px" style="">
 
-Si tu n'as pas la carte "Pédagogie", dis que tu l'as et déclare "J'ASSUME".
-
 ---
 
 Les séditions te montrent la carte "R.I.P.", "Amendement" ou "Pétition" ?  
